@@ -1,4 +1,4 @@
-# Pin Folders to Dash
+# GNOME Shell Extension - Pin Folders to Dash
 
 A GNOME Shell extension that lets you pin app folders to the dash, the same way you pin regular apps.
 
@@ -17,6 +17,8 @@ This is a fork of [fcusr/pin-app-folders-to-dash](https://github.com/fcusr/pin-a
 3. cp -r pin-folders-to-dash@TheOrsia ~/.local/share/gnome-shell/extensions/
 
 * Do you want "Get it on GNOME Extensions"? Coming soon...
+
+## Screenshot<img width="791" height="383" alt="Screenshot From 2026-09-22 13-00-04" src="https://github.com/user-attachments/assets/c834df3b-dc5a-4f7c-bf0d-f966e2549756" />
 
 ## License
 

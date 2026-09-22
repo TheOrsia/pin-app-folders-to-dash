@@ -1,0 +1,8 @@
+{
+  "name": "Pin Folders to Dash",
+  "description": "Pin app folders to the dash, just like regular apps.",
+  "uuid": "pin-folders-to-dash@TheOrsia",
+  "shell-version": ["50"],
+  "url": "https://github.com/TheOrsia/pin-app-folders-to-dash",
+  "version": 1
+}

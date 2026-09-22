@@ -1,0 +1,9 @@
+#dash .dash-item-container .app-folder .overview-icon {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-radius: 16px;
+}
+
+#dash .dash-item-container .app-folder:hover .overview-icon,
+#dash .dash-item-container .app-folder:focus .overview-icon {
+    background-color: rgba(255, 255, 255, 0.22);
+}

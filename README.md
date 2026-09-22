@@ -14,7 +14,7 @@ This is a fork of [fcusr/pin-app-folders-to-dash](https://github.com/fcusr/pin-a
 
 1. git clone https://github.com/TheOrsia/pin-folders-to-dash
 2. cd pin-folders-to-dash
-3. cp -r folders-to-dash@TheOrsia ~/.local/share/gnome-shell/extensions/
+3. cp -r pin-folders-to-dash@TheOrsia ~/.local/share/gnome-shell/extensions/
 
 * Do you want "Get it on GNOME Extensions"? Coming soon...
 

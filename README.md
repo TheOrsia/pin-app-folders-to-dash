@@ -12,10 +12,9 @@ This is a fork of [fcusr/pin-app-folders-to-dash](https://github.com/fcusr/pin-a
 
 ## Installation
 
-1. Clone this repo
-2. Copy `pin-folders-to-dash@TheOrsia/` into `~/.local/share/gnome-shell/extensions/`
-3. Log out and back in
-4. Enable it from the Extensions app
+git clone https://github.com/TheOrsia/pin-app-folders-to-dash
+cd pin-app-folders-to-dash
+cp -r pin-folders-to-dash@TheOrsia ~/.local/share/gnome-shell/extensions/
 
 ## License
 
